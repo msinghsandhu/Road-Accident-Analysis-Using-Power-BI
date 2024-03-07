@@ -3,7 +3,7 @@
 ## Problem Statement:
 The road accident dataset offers valuable insights into the occurrence, characteristics, and contributing factors of traffic accidents. However, several challenges persist in understanding and mitigating road safety issues. One significant problem to address is the identification of key factors influencing the frequency and severity of accidents, including road conditions, weather, driver behavior, vehicle types, and infrastructure. Additionally, there is a need to develop predictive models to anticipate accident hotspots and patterns, enabling proactive measures to prevent accidents and reduce their impact on road users. 
 
-![Alt text](https://github.com/msinghsandhu/London-Bike-Sharing-Using-PowerBI/blob/main/main.png?raw=true)
+![Alt text](https://github.com/msinghsandhu/Road-Accident-Analysis-Using-Power-BI/blob/main/Main.png?raw=true)
 
 ## Solution Approach:
 
@@ -19,7 +19,9 @@ To address the problem statement, the following approach was used:
 Power BI's data transformation features, such as Power Query, were utilized to clean and transform the data. Irrelevant entries, duplicates, and inconsistencies were removed or resolved, ensuring the data was accurate and reliable.
 
 ### * Dashboard Creation - Key Insights: 
-The first type of dashboard, "Key Insights," was created to provide an overview of the bike sharing trend along with following KPI's
+
+The first type of dashboard, "Key Insights," was created to provide an overview of the bike sharing trend along with following KPI's:
+
     * Primary KPI's - Total Casualties and Total Accident values for Current Year and YoY Growth
     * Primary KPI's - Total Casualties by Accident Severity for Current Year and YoY Growth
     * Secondary KPI's - Total Casualties with respect to Vehicle Type for Current Year
